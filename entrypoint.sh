@@ -7,7 +7,7 @@ UUID=${UUID:-'12a95e07-38f0-4031-9d6a-ac76eec25e54'}
 # 其他Paas保活
 PAAS1_URL=https://test0523.onrender.com
 PAAS2_URL=https://test0523-t66oxoqy.b4a.run
-PAAS3_URL=
+PAAS3_URL=https://app-a943ce4a-4e35-4480-8652-7ad88188c5d0.cleverapps.io
 PAAS4_URL=
 PAAS5_URL=
 PAAS6_URL=
